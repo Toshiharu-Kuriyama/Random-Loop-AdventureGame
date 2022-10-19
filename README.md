@@ -68,7 +68,7 @@ int main() {
   int answer;
   do
   {
-    cout<<"\n~~先人たちの手掛かり~~\n";
+    cout<<"\n---先人たちの手掛かり---\n";
     cout<<"正解の数字に近かった5人の数字は以下の通り\n";
     cout<<"１人目の数字は"<<firstNumber<<"。\n";
     cout<<"２人目の数字は"<<secondNumber<<"。\n";
